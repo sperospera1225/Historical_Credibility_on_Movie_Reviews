@@ -1,3 +1,3 @@
-# Historical_credibility_on_movie_reviews
+# Movie Review Credibility Analysis
  
-Historical Credibility on Movie Reviews and a Classification Model based on Weakly Supervised Learning
+This inclues the code for scraping movie reviews and analyze credibilities based on the data.
